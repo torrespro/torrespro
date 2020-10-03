@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+![alt text](presentation.png)
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=torrespro.visitor-badge">
 
 Hi. I’m Andrés Torres. I am a Software Engineer from Spain 🇪🇸, living in London 🇬🇧 (#bollocksToBrexit) and working for a Dutch company 🇳🇱.
 
-I work at [Backbase](www.backbase.com) as Director of Backend. For more information about me,
+I work at [Backbase](http://www.backbase.com) as Director of Backend. For more information about me,
 check out [atorr.es](http://atorr.es/).
 
 <!--
