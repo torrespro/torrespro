@@ -3,7 +3,9 @@
 ![alt text](presentation.png)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=torrespro.visitor-badge">
+
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/towerspro)
+
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/atorresg)
 
 Hi. I’m Andrés Torres. I am a Software Engineer from Spain 🇪🇸, living in London 🇬🇧 (#bollocksToBrexit) and working for a Dutch company 🇳🇱.
