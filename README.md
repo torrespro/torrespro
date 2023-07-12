@@ -10,7 +10,7 @@
 
 Hi. I’m Andrés Torres. I am a Software Engineer from Spain 🇪🇸, living in London 🇬🇧 (#bollocksToBrexit) and working for a Dutch company 🇳🇱.
 
-I work at [Backbase](http://www.backbase.com) as Director of Backend. I write articles for [**Medium**](https://medium.com/@towerspro)
+I work at [Kalyp](http://www.kalyp.com) as CTO. I write articles for [**Medium**](https://medium.com/@towerspro)
 
 For more information about me, check out [atorr.es](http://atorr.es/).
 
